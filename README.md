@@ -1,4 +1,4 @@
-# TipTop to PDF Using Vue3 & Laravel
+# Converting [TipTap](https://github.com/ueberdosis/tiptap) to PDF Using Vue3 & Laravel
 
 <!-- GETTING STARTED -->
 ## Getting Started
